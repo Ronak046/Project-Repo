@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RestrauntMenu.java&apos; to &apos;RestaurantService/src/main/java/com.gl.RestaurantService.bean&apos;&#x0D;&#x0A;- Original project: &apos;restrauntApplication&apos;&#x0D;&#x0A;- Destination element: &apos;RestaurantService/src/main/java/com.gl.RestaurantService.bean&apos;&#x0D;&#x0A;- Original element: &apos;com.gl.restrauntApplication.bean.RestrauntMenu.java&apos;" description="Copy compilation unit" destination="=RestaurantService/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gl.RestaurantService.bean" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gl.restrauntApplication.bean{RestrauntMenu.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1666859045044" units="1" version="1.0"/>
+</session>

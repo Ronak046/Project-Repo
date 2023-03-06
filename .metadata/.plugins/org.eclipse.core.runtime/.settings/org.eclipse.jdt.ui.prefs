@@ -1,0 +1,13 @@
+Refactoring.savealleditors=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.gl.RestaurantService.bean.Restaurant"><rhs name\="com.gl.RestaurantService.bean.Restaurant"/></lhs><lhs name\="com.gl.RestaurantService.bean.Menu"><rhs name\="com.gl.RestaurantService.bean.Menu"/></lhs><lhs name\="com.gl.CustomerService.bean.Customer"><rhs name\="com.gl.CustomerService.bean.Customer"/></lhs><lhs name\="com.gl.OrderService.bean.OrderDTO"><rhs name\="com.gl.OrderService.bean.OrderDTO"/></lhs><lhs name\="com.gl.CustomerService.bean.CustomerDTO"><rhs name\="com.gl.CustomerService.bean.CustomerDTO"/></lhs><lhs name\="com.gl.RestaurantService.bean.RestaurantDTO"><rhs name\="com.gl.RestaurantService.bean.RestaurantDTO"/></lhs><lhs name\="com.gl.OrderService2.bean.OrderApp"><rhs name\="com.gl.OrderService2.bean.OrderApp"/></lhs><lhs name\="org.springframework.web.servlet.ModelAndView"><rhs name\="org.springframework.web.servlet.ModelAndView"/></lhs><lhs name\="com.gl.RestaurantService.bean.MenuDTO"><rhs name\="com.gl.RestaurantService.bean.MenuDTO"/></lhs><lhs name\="com.gl.UserInterfaceClient.bean.Item"><rhs name\="com.gl.UserInterfaceClient.bean.Item"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.gl.UserInterfaceClient.bean.ItemDTO"><rhs name\="com.gl.UserInterfaceClient.bean.ItemDTO"/></lhs><lhs name\="com.gl.UserInterfaceClient.bean.OrderAppDTO"><rhs name\="com.gl.UserInterfaceClient.bean.OrderAppDTO"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

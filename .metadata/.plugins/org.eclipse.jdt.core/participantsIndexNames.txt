@@ -1,0 +1,19 @@
+INDEX VERSION 1.131
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1687073051.index
+\UserInterfaceClient\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1051603866.index
+\CustomerApplication\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3670455719.index
+\oneToManyApplication\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3122538231.index
+\RestaurantApplication\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\671895208.index
+\restrauntApplication\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2676607760.index
+\UserInterfaceClient\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2579999187.index
+\OrderApplication2\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\502077476.index
+\UserApplication1\src\main\java
+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\272603871.index
+\restrauntApplication\src\main\java

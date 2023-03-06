@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+D:\Globallogic\CoreJava\FoodOrderAndDelivery\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2722789785.index
+3984684759.index
+936910408.index
+1667384982.index
+1776456719.index
+146303670.index
+772661828.index
+1769714816.index
+3120624924.index
+417116348.index
+2745980942.index

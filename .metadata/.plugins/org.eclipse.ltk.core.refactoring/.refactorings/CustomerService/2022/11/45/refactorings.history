@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CustomerDTO.java&apos; to &apos;UserInterfaceClient/src/main/java/com.gl.UserInterfaceClient.bean&apos;&#x0D;&#x0A;- Original project: &apos;CustomerService&apos;&#x0D;&#x0A;- Destination element: &apos;UserInterfaceClient/src/main/java/com.gl.UserInterfaceClient.bean&apos;&#x0D;&#x0A;- Original element: &apos;com.gl.CustomerService.bean.CustomerDTO.java&apos;" description="Copy compilation unit" destination="=UserInterfaceClient/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gl.UserInterfaceClient.bean" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.gl.CustomerService.bean{CustomerDTO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1667370049692" units="1" version="1.0"/>
+</session>
